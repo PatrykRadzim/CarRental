@@ -6,7 +6,9 @@
            margin-bottom: 5vh;
            width: 50%;" />
 
-<h1 style="text-align: center">🚧 Work in progress 🚧</h1>
+>
+
+## 🚧 Work in progress 🚧
 
 ### Full Stack car rental application with React + MUI frontend, Spring Boot backend and PostgreSQL database.
 
