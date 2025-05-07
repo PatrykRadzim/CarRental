@@ -4,7 +4,7 @@
            margin-right: auto;
            margin-top: 2vh;
            margin-bottom: 5vh;
-           height: 8vh;" />
+           width: 50%;" />
 
 <h1 style="text-align: center">🚧 Work in progress 🚧</h1>
 
@@ -64,7 +64,7 @@ psql -U postgres -c "CREATE DATABASE top_car;"
 # Replace 'postgres' with your PostgreSQL username if it's different.
 ```
 
-#### Import schema:
+#### Go to the `database` folder and import schema:
 
 ```bash
 psql -U postgres -d top_car -f schema.sql
